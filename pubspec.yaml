@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  elementary: ^3.0.0
+  elementary_helper: ^3.0.0
